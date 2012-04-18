@@ -1,0 +1,8 @@
+application: yt-agt
+version: upload
+runtime: python
+api_version: 1
+
+handlers:
+- url: /.*
+  script: upload.py
