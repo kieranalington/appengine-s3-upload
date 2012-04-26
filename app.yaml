@@ -1,4 +1,4 @@
-application: yt-agt
+application: my-application
 version: upload
 runtime: python
 api_version: 1
